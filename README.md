@@ -12,3 +12,6 @@ Certain implementations such as .violate() in Law() are primitive--they are too 
 
 Run `git clone https://github.com/BolongTang/Romans.git` to clone all files to your local machine, and add illustrations by adding tests to TestRomans2.py. 
 
+![Jack is unrighteous and a hypocrite according to the 10 commandments because he murdered](https://imgur.com/a/U8VcEt4)
+
+Fig. 1 Example illustration: Jack is unrighteous and a hypocrite according to the 10 commandments because he murdered. The unit test passes according to the definitions. 
